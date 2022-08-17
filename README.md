@@ -1,16 +1,20 @@
-### Hi there 👋
+### Ямилова Алсу Римовна 👋
 
-<!--
-**alsouyamilova/alsouyamilova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Дата рождения: 30.07.1992 г.
+Город: Санкт-Петербург
+Контактная информация
+        Моб.: 89135776055
+        WhatsApp: 89319705908
+        E-mail: alsouyamilova@gmail.com
 
-Here are some ideas to get you started:
+#### Образование
+Высшее техническое.
+2009-2014гг. – Уфимский государственный нефтяной технический университет, Механический факультет.
+Специализация: Проектирование, монтаж, эксплуатация и ремонт оборудования  нефтегазопереработки.
+Средний балл диплома: 5,0.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Курсы и повышение квалификации
+2020 – Курс «Макросы в Excel» в  «Академия Excel»
+2021 – Курс «Power BI» в Skillbox
+2022 – Виртуальная IT-стажировка "Аналитик данных" от компании Schlumberger на платформе Changellenge
+2021 – наст. время – Специализация «Data Science» в  Skillfactory
