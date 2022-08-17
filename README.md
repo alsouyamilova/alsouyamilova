@@ -2,10 +2,10 @@
 
 Дата рождения: 30.07.1992 г.<br>
 Город: Санкт-Петербург <br>
-Контактная информация <br>
-        Моб.: 89135776055 <br>
-        WhatsApp: 89319705908 <br>
-        E-mail: alsouyamilova@gmail.com <br>
+:crying_cat_face:
+Моб.: 89135776055 <br>
+WhatsApp: 89319705908 <br>
+E-mail: alsouyamilova@gmail.com <br>
         
 ### Профессиональные знания и навыки <br>   
 **Python**
