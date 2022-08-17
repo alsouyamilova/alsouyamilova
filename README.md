@@ -3,7 +3,7 @@
 Дата рождения: 30.07.1992 г.<br>
 Город: Санкт-Петербург <br>
 
-:iphone: 89135776055 (calls), 89319705908  (WhatsApp, Telegram)<br>
+:iphone: 89135776055 (для звонков), 89319705908  (WhatsApp, Telegram)<br>
 :email: alsouyamilova@gmail.com <br>
         
 ### Профессиональные знания и навыки <br>   
